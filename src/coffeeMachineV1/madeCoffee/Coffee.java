@@ -2,6 +2,9 @@ package coffeeMachineV1.madeCoffee;
 
 public interface Coffee {
 
-    public void processing();
+    void processing();
+
+    void show();
+
 
 }
